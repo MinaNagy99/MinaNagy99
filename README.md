@@ -8,6 +8,12 @@ I'm a passionate **Software Engineer** specializing in backend development with 
 
 ---
 
+### ✨ Welcome Animation
+
+![Welcome Animation](https://raw.githubusercontent.com/motion-canvas/examples/main/public/motion.gif)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Milenagy's GitHub stats](https://github-readme-stats.vercel.app/api?username=milenagy&show_icons=true&theme=radical)
