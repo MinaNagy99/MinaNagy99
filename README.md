@@ -5,7 +5,7 @@ I'm a passionate **Full Stack Developer** with over a year of experience buildin
 
 I also completed a **9-month Full Stack Diploma** at **Route Academy** and a **3-month intensive internship** at **ITI**, which further enriched my technical skills.  
 
-- 🌱 I’m currently exploring **Vue.js**, **Ruby on Rails**, and **Docker**.  
+- 🌱 I’m currently exploring **Vue.js**, **React**, **Next.js**, and **Docker**.  
 - 💡 I’m passionate about delivering impactful software solutions and collaborating on innovative projects.  
 
 ---
@@ -25,13 +25,16 @@ I also completed a **9-month Full Stack Diploma** at **Route Academy** and a **3
 ## 🛠 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 ---
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/milenagy)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+## 📫 Contact Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-bay-five-37.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-nagy-full-stack/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minanagykhalefa@gmail.com)  
+📞 **Phone Numbers:** 01016142833 / 01129039742  
